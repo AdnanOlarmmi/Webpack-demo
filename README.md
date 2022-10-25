@@ -40,7 +40,7 @@ To get a local copy of this project up and running on your local machine follow 
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Math-Magician.git
+git clone https://github.com/AdnanOlarmmi/Webpack-demo.git
 ```
 
 - Navigate to the location of the folder in your machine:
