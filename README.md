@@ -1,6 +1,8 @@
 # Webpack-demo
-Webpack is a static module bundler for modern JavaScript applications. It's intelligent enough to build all app dependencies based just on your file imports. It starts from a list of modules defined as entry points and recursively builds a dependency graph that includes every module the application needs.
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
+Webpack is a static module bundler for modern JavaScript applications. It's intelligent enough to build all app dependencies based just on your file imports. It starts from a list of modules defined as entry points and recursively builds a dependency graph that includes every module the application needs.
 
 > Learning objectives
 
